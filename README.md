@@ -1,5 +1,4 @@
 # hibernate
-##hibernate example program
 
 Program wykorzystujący framework hibernate do łączenia się z bazą danych. Program umożliwia dodanie biegu, zapisanie zawodnika do odpowiedniego biegu, 
 usunięcie go z listy, a także wyświetlenie listy wszystkich biegów lub zawodników. 
